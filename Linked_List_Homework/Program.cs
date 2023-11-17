@@ -6,6 +6,7 @@ namespace Linked_List_Homework
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Students : Toka Ajaj and Jawaher Sulaiman");
             LinkedList list = new LinkedList();
 
             Console.WriteLine("Adding nodes ...");
